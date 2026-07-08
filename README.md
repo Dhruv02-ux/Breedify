@@ -48,6 +48,9 @@ Using a dual-model pipeline offers several key advantages over a single global c
               │
               ▼
    [ Predicted Breed Name ] ──► [ Final Display Output ]
+```
+---
+
 ##🛠️ Technologies Used
 > Language: Python 🐍
 
@@ -57,12 +60,16 @@ Using a dual-model pipeline offers several key advantages over a single global c
 
 > Visualization: Matplotlib
 
+---
+
 ##📈 Key Features
 ✔️ State-of-the-Art Backbone: Leverages EfficientNet for lightweight yet highly accurate feature extraction.
 
 ✔️ Modular Design: Clear separation of concerns between filtering and classification stages.
 
 ✔️ Agri-Tech Ready: Built with a scalable architecture tailored for modern digital agriculture and livestock tracking.
+
+---
 
 ##🌱 Future Scope
 > Cross-Platform Deployment: Integration into mobile and web applications for on-field usage.
@@ -74,6 +81,8 @@ Using a dual-model pipeline offers several key advantages over a single global c
 > Blockchain Integration: Linking breed classification results with secure, immutable cattle identity logs.
 
 > Livestock Expansion: Extending the pipeline to support buffaloes, goats, camels, and other livestock.
+
+---
 
 ##👨‍💻 Author
 Dhruv
