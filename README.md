@@ -51,7 +51,7 @@ Using a dual-model pipeline offers several key advantages over a single global c
 ```
 ---
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 > Language: Python 🐍
 
 > Deep Learning Framework: TensorFlow & Keras
@@ -62,7 +62,7 @@ Using a dual-model pipeline offers several key advantages over a single global c
 
 ---
 
-##📈 Key Features
+## 📈 Key Features
 ✔️ State-of-the-Art Backbone: Leverages EfficientNet for lightweight yet highly accurate feature extraction.
 
 ✔️ Modular Design: Clear separation of concerns between filtering and classification stages.
@@ -71,7 +71,7 @@ Using a dual-model pipeline offers several key advantages over a single global c
 
 ---
 
-##🌱 Future Scope
+## 🌱 Future Scope
 > Cross-Platform Deployment: Integration into mobile and web applications for on-field usage.
 
 > Edge AI: Implementation of real-time, camera-based prediction models operating offline.
@@ -84,7 +84,7 @@ Using a dual-model pipeline offers several key advantages over a single global c
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Dhruv
 
 B.Tech Student | AI & ML Enthusiast
